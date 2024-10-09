@@ -23,8 +23,7 @@ Determine effective customer discounts, facilitate negotiations with consumers, 
 
 # Finance Report
 **Project Objectives**
-1. Create Profi[Uploading Excel Project…]()
-t and Loss (P&L) Reports by Fiscal Year & Months
+1. Create Profit
 2. Create Profit and Loss (P&L) Reports by Markets
 3. Create Gross Margin Reports by Markets
    
@@ -42,10 +41,3 @@ Designing user-centric reports with empathy in mind
 Optimization of report generation through meticulous fine-tuning
 Developing a systematic approach to devising a report-building plan
 
-[Top & Bottom 5 Products.pdf](https://github.com/user-attachments/files/17305975/Top.Bottom.5.Products.pdf)
-[P&L_for_market.pdf](https://github.com/user-attachments/files/17305974/P.L_for_market.pdf)
-[P&L by Fiscal Months.pdf](https://github.com/user-attachments/files/17305972/P.L.by.Fiscal.Months.pdf)
-[New Products 2021.pdf](https://github.com/user-attachments/files/17305971/New.Products.2021.pdf)
-[Market Performance vs Target.pdf](https://github.com/user-attachments/files/17305969/Market.Performance.vs.Target.pdf)
-[Finalce-and-Sales-Analysis-Using-Excel_P&L by Fiscal Year.pdf](https://github.com/user-attachments/files/17305968/Finalce-and-Sales-Analysis-Using-Excel_P.L.by.Fiscal.Year.pdf)
-[Customer Net Sales Performance.pdf](https://github.com/user-attachments/files/17305964/Customer.Net.Sales.Performance.pdf)
